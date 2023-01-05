@@ -1,0 +1,18 @@
+public  class Ward{
+       private Owner owner;
+       Ward(){
+       
+       }
+         
+   }
+
+  public class Owner{
+        private Ward ward;
+            Owner(){
+            ward = new Ward();
+        } 
+        public static void main (String[] args){
+            Owner owner = new Owner();
+
+        }
+   }

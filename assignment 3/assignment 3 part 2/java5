@@ -1,0 +1,13 @@
+public class Employee{
+
+}
+public class SalariedEmployee extends Employee{
+
+}
+
+
+
+
+
+
+

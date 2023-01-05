@@ -1,0 +1,26 @@
+public class Phone{
+    private Button num ;
+
+    public void setNum(Button num){
+        this.num = num;
+    }
+
+    public Button GetNum(){
+        return this.num;
+    }
+}
+
+
+public class Button{
+
+}
+
+
+
+
+
+
+
+
+
+
